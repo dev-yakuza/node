@@ -14,7 +14,6 @@
     "import",
     "node",
     "promise",
-    "standard"
   ],
 
   "globals": {
@@ -201,7 +200,5 @@
     "node/process-exit-as-throw": "error",
 
     "promise/param-names": "off",
-
-    "standard/no-callback-literal": "error"
   }
 }
